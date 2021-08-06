@@ -1,25 +1,80 @@
 {
   "tokens": [
     {
-      "id": 0,
-      "description": "Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain.",
-      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-      "image": "https://ipfs.io/ipfs/QmWeE2UGxcSD6pkbopvhbVGszGzaaxAioFz9UAEk3rcmpS?filename=113-2-1.gif",
-      "name": "MachinieTest #1"
-    },
-    {
       "id": 1,
       "description": "Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain.",
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-      "image": "https://ipfs.io/ipfs/QmQRf9ZfD7PRDvA5LD1wzvvNB7DJsnFNRwPXmRCXCZaKc9?filename=113-2-1837.gif",
-      "name": "MachinieTest #2"
+      "image": "https://ipfs.io/ipfs/QmSxZohy3UeX7rzpLUukkjoXdjghwVxPUXLKAYSpDA4P9D?filename=113-2-768.gif",
+      "name": "Machinie Test #1",
+      "attributes": [
+        {
+          "trait_type": "BACKGROUND COLOR",
+          "value": "Machinie Cyan"
+        },
+        {
+          "trait_type": "MOLD",
+          "value": "113"
+        },
+        {
+          "trait_type": "MONITOR COUNT",
+          "value": "3"
+        },
+        {
+          "trait_type": "COMBINATION OF TYPE",
+          "value": "Triple"
+        }
+      ]
     },
     {
       "id": 2,
       "description": "Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain.",
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-      "image": "https://ipfs.io/ipfs/QmUmGszvhkUoEjPyrTo7BWd8YWjr4KpgD7rivqFY15CjDG?filename=113-2-981.gif",
-      "name": "MachinieTest #3"
+      "image": "https://ipfs.io/ipfs/QmRLUKWk3jG9u8zyDwjUHzPY7jehhKDM7Y7kWmMwPH4XAw?filename=113-2-3.gif",
+      "name": "Machinie Test #2",
+      "attributes": [
+        {
+          "trait_type": "BACKGROUND COLOR",
+          "value": "Machinie Blue"
+        },
+        {
+          "trait_type": "MOLD",
+          "value": "113"
+        },
+        {
+          "trait_type": "MONITOR COUNT",
+          "value": "3"
+        },
+        {
+          "trait_type": "COMBINATION OF TYPE",
+          "value": "Triple"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "description": "Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain.",
+      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+      "image": "https://ipfs.io/ipfs/QmXUYfRt4bhEJRgmCY6PQQs5errZzSNrzxoqPn1eyU8pEA?filename=113-2-1773.gif",
+      "name": "Machinie Test #3",
+      "attributes": [
+        {
+          "trait_type": "BACKGROUND COLOR",
+          "value": "Machinie Silver"
+        },
+        {
+          "trait_type": "MOLD",
+          "value": "113"
+        },
+        {
+          "trait_type": "MONITOR COUNT",
+          "value": "3"
+        },
+        {
+          "trait_type": "COMBINATION OF TYPE",
+          "value": "Triple"
+        }
+      ]
     }
   ]
 }
+

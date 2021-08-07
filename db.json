@@ -103,45 +103,6 @@
         { "trait_type": "MONITOR COUNT", "value": "2" },
         { "trait_type": "COMBINATION OF TYPE", "value": "Double" }
       ]
-    },
-    {
-      "id": 8,
-      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
-      "external_url": "https://machinienft.com",
-      "image": "ipfs://QmStr9Mkn4BVReFYMqdC3qUcmLaaYDKwHzeK8qNcGkfcBo",
-      "name": "Machinie #8",
-      "traits": [
-        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Gold" },
-        { "trait_type": "MOLD", "value": "12" },
-        { "trait_type": "MONITOR COUNT", "value": "2" },
-        { "trait_type": "COMBINATION OF TYPE", "value": "Double" }
-      ]
-    },
-    {
-      "id": 9,
-      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
-      "external_url": "https://machinienft.com",
-      "image": "ipfs://QmPtyn8TqNTXvmXor8YWVRwBEDJWZHREqnEw78NHAWA4BW",
-      "name": "Machinie #9",
-      "traits": [
-        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Purp" },
-        { "trait_type": "MOLD", "value": "113" },
-        { "trait_type": "MONITOR COUNT", "value": "3" },
-        { "trait_type": "COMBINATION OF TYPE", "value": "Single" }
-      ]
-    },
-    {
-      "id": 10,
-      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
-      "external_url": "https://machinienft.com",
-      "image": "ipfs://QmRSuo3iheXsGPWMvoBA8zzMZpqCuWgq1hdeV9e2zHtCbe",
-      "name": "Machinie #10",
-      "traits": [
-        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Silver" },
-        { "trait_type": "MOLD", "value": "12" },
-        { "trait_type": "MONITOR COUNT", "value": "2" },
-        { "trait_type": "COMBINATION OF TYPE", "value": "Double" }
-      ]
     }
 
   ]

@@ -2,77 +2,262 @@
   "tokens": [
     {
       "id": 0,
-      "description": "Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain.",
+      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
       "external_url": "https://machinienft.com",
-      "image": "https://ipfs.io/ipfs/QmSxZohy3UeX7rzpLUukkjoXdjghwVxPUXLKAYSpDA4P9D?filename=113-2-768.gif",
-      "name": "Machinie Test #0",
+      "image": "ipfs://Qma8EJsbyKY6GhX8ZnrbxfPE1itMyG5Y2C2hokeWAFAa3M",
+      "name": "Machinie #0",
       "traits": [
-        {
-          "trait_type": "BACKGROUND COLOR",
-          "value": "Machinie Cyan"
-        },
-        {
-          "trait_type": "MOLD",
-          "value": "113"
-        },
-        {
-          "trait_type": "MONITOR COUNT",
-          "value": "3"
-        },
-        {
-          "trait_type": "COMBINATION OF TYPE",
-          "value": "Triple"
-        }
+        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Pink" },
+        { "trait_type": "MOLD", "value": "13" },
+        { "trait_type": "MONITOR COUNT", "value": "2" },
+        { "trait_type": "COMBINATION OF TYPE", "value": "Double" }
       ]
     },
     {
       "id": 1,
-      "description": "Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain.",
+      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
       "external_url": "https://machinienft.com",
-      "image": "https://ipfs.io/ipfs/QmRLUKWk3jG9u8zyDwjUHzPY7jehhKDM7Y7kWmMwPH4XAw?filename=113-2-3.gif",
-      "name": "Machinie Test #1",
+      "image": "ipfs://QmePKUpLDLskb1PK418EQEKHw7MCKtASht2BmKbuTpQeUy",
+      "name": "Machinie #1",
       "traits": [
-        {
-          "trait_type": "BACKGROUND COLOR",
-          "value": "Machinie Blue"
-        },
-        {
-          "trait_type": "MOLD",
-          "value": "113"
-        },
-        {
-          "trait_type": "MONITOR COUNT",
-          "value": "3"
-        },
-        {
-          "trait_type": "COMBINATION OF TYPE",
-          "value": "Triple"
-        }
+        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Silver" },
+        { "trait_type": "MOLD", "value": "113" },
+        { "trait_type": "MONITOR COUNT", "value": "3" },
+        { "trait_type": "COMBINATION OF TYPE", "value": "Double" }
       ]
     },
     {
       "id": 2,
-      "description": "Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain.",
+      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
       "external_url": "https://machinienft.com",
-      "image": "https://ipfs.io/ipfs/QmXUYfRt4bhEJRgmCY6PQQs5errZzSNrzxoqPn1eyU8pEA?filename=113-2-1773.gif",
-      "name": "Machinie Test #2",
+      "image": "ipfs://QmYjzrtqinzZnuZ7uGGboZF7knXd1CZMhCozZ1yBUvhX9M",
+      "name": "Machinie #2",
       "traits": [
-        {
-          "trait_type": "BACKGROUND COLOR",
-          "value": "Machinie Silver"
-        },
-        {
-          "trait_type": "MOLD",
-          "value": "113"
-        },
-        {
-          "trait_type": "MONITOR COUNT",
-          "value": "3"
-        },
-        {
-          "trait_type": "COMBINATION OF TYPE",
-          "value": "Triple"
-        }
+        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Olive" },
+        { "trait_type": "MOLD", "value": "113" },
+        { "trait_type": "MONITOR COUNT", "value": "3" },
+        { "trait_type": "COMBINATION OF TYPE", "value": "Triple" }
+      ]
+    },
+    {
+      "id": 3,
+      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
+      "external_url": "https://machinienft.com",
+      "image": "ipfs://QmYjzrtqinzZnuZ7uGGboZF7knXd1CZMhCozZ1yBUvhX9M",
+      "name": "Machinie #3",
+      "traits": [
+        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Cyan" },
+        { "trait_type": "MOLD", "value": "12" },
+        { "trait_type": "MONITOR COUNT", "value": "2" },
+        { "trait_type": "COMBINATION OF TYPE", "value": "Double" }
+      ]
+    },
+    {
+      "id": 4,
+      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
+      "external_url": "https://machinienft.com",
+      "image": "ipfs://QmVK69VqLiTZr3s94av9LPWFTHcubmDjVhtrTraeCg6i1x",
+      "name": "Machinie #4",
+      "traits": [
+        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Cyan" },
+        { "trait_type": "MOLD", "value": "113" },
+        { "trait_type": "MONITOR COUNT", "value": "3" },
+        { "trait_type": "COMBINATION OF TYPE", "value": "Triple" }
+      ]
+    },
+    {
+      "id": 5,
+      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
+      "external_url": "https://machinienft.com",
+      "image": "ipfs://QmVt53VmqUMovxjd8MUhSi7gRXEodr1uutc1TNiw6TqdWi",
+      "name": "Machinie #5",
+      "traits": [
+        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Pink" },
+        { "trait_type": "MOLD", "value": "12" },
+        { "trait_type": "MONITOR COUNT", "value": "2" },
+        { "trait_type": "COMBINATION OF TYPE", "value": "Triple" }
+      ]
+    },
+    {
+      "id": 6,
+      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
+      "external_url": "https://machinienft.com",
+      "image": "ipfs://QmRK5pqppp2mMW2RxMN49px6YeobDJQzdU5DX6CAzBqZaj",
+      "name": "Machinie #6",
+      "traits": [
+        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Blue" },
+        { "trait_type": "MOLD", "value": "12" },
+        { "trait_type": "MONITOR COUNT", "value": "2" },
+        { "trait_type": "COMBINATION OF TYPE", "value": "Double" }
+      ]
+    },
+    {
+      "id": 7,
+      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
+      "external_url": "https://machinienft.com",
+      "image": "ipfs://QmNWmrmCZWJhPybPe28ijyLKwznU2QPMtyR9ehiE7PsaQy",
+      "name": "Machinie #7",
+      "traits": [
+        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Blue" },
+        { "trait_type": "MOLD", "value": "12" },
+        { "trait_type": "MONITOR COUNT", "value": "2" },
+        { "trait_type": "COMBINATION OF TYPE", "value": "Double" }
+      ]
+    },
+    {
+      "id": 8,
+      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
+      "external_url": "https://machinienft.com",
+      "image": "ipfs://QmStr9Mkn4BVReFYMqdC3qUcmLaaYDKwHzeK8qNcGkfcBo",
+      "name": "Machinie #8",
+      "traits": [
+        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Gold" },
+        { "trait_type": "MOLD", "value": "12" },
+        { "trait_type": "MONITOR COUNT", "value": "2" },
+        { "trait_type": "COMBINATION OF TYPE", "value": "Double" }
+      ]
+    },
+    {
+      "id": 9,
+      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
+      "external_url": "https://machinienft.com",
+      "image": "ipfs://QmPtyn8TqNTXvmXor8YWVRwBEDJWZHREqnEw78NHAWA4BW",
+      "name": "Machinie #9",
+      "traits": [
+        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Purp" },
+        { "trait_type": "MOLD", "value": "113" },
+        { "trait_type": "MONITOR COUNT", "value": "3" },
+        { "trait_type": "COMBINATION OF TYPE", "value": "Single" }
+      ]
+    },
+    {
+      "id": 10,
+      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
+      "external_url": "https://machinienft.com",
+      "image": "ipfs://QmRSuo3iheXsGPWMvoBA8zzMZpqCuWgq1hdeV9e2zHtCbe",
+      "name": "Machinie #10",
+      "traits": [
+        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Silver" },
+        { "trait_type": "MOLD", "value": "12" },
+        { "trait_type": "MONITOR COUNT", "value": "2" },
+        { "trait_type": "COMBINATION OF TYPE", "value": "Double" }
+      ]
+    },
+    {
+      "id": 11,
+      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
+      "external_url": "https://machinienft.com",
+      "image": "ipfs://Qmd9tYpTU42bDtKdVid9Yaz8oFan82d72CkVbFVaQ77Pha",
+      "name": "Machinie #11",
+      "traits": [
+        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Gold" },
+        { "trait_type": "MOLD", "value": "113" },
+        { "trait_type": "MONITOR COUNT", "value": "3" },
+        { "trait_type": "COMBINATION OF TYPE", "value": "Double" }
+      ]
+    },
+    {
+      "id": 12,
+      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
+      "external_url": "https://machinienft.com",
+      "image": "ipfs://QmQppReKJ2xjrcEp84PgHii8kDdJWGzVwh8NgRA6LaJXfe",
+      "name": "Machinie #12",
+      "traits": [
+        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Red" },
+        { "trait_type": "MOLD", "value": "113" },
+        { "trait_type": "MONITOR COUNT", "value": "3" },
+        { "trait_type": "COMBINATION OF TYPE", "value": "Triple" }
+      ]
+    },
+    {
+      "id": 13,
+      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
+      "external_url": "https://machinienft.com",
+      "image": "ipfs://QmeUQgFfX1JMUtBsAo19znzkVcKsrYwm41VbURuwS3GqV1",
+      "name": "Machinie #13",
+      "traits": [
+        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Red" },
+        { "trait_type": "MOLD", "value": "12" },
+        { "trait_type": "MONITOR COUNT", "value": "2" },
+        { "trait_type": "COMBINATION OF TYPE", "value": "Double" }
+      ]
+    },
+    {
+      "id": 14,
+      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
+      "external_url": "https://machinienft.com",
+      "image": "ipfs://QmS9EiWmQRkNsCmqivkz8trxncr7VHJQ23xn6HuRogRttP",
+      "name": "Machinie #14",
+      "traits": [
+        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Olive" },
+        { "trait_type": "MOLD", "value": "12" },
+        { "trait_type": "MONITOR COUNT", "value": "2" },
+        { "trait_type": "COMBINATION OF TYPE", "value": "Double" }
+      ]
+    },
+    {
+      "id": 15,
+      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
+      "external_url": "https://machinienft.com",
+      "image": "ipfs://QmWeMTAKQvHXWoCB7XMFrknWFvv41W3AnWzhkFtVAqYFAo",
+      "name": "Machinie #15",
+      "traits": [
+        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Silver" },
+        { "trait_type": "MOLD", "value": "12" },
+        { "trait_type": "MONITOR COUNT", "value": "2" },
+        { "trait_type": "COMBINATION OF TYPE", "value": "Double" }
+      ]
+    },
+    {
+      "id": 16,
+      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
+      "external_url": "https://machinienft.com",
+      "image": "ipfs://QmZHvmoetZBeJYpWi12McLjF9L89wXPW2LRg3ECitopib9",
+      "name": "Machinie #16",
+      "traits": [
+        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Gold" },
+        { "trait_type": "MOLD", "value": "113" },
+        { "trait_type": "MONITOR COUNT", "value": "3" },
+        { "trait_type": "COMBINATION OF TYPE", "value": "Double" }
+      ]
+    },
+    {
+      "id": 17,
+      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
+      "external_url": "https://machinienft.com",
+      "image": "ipfs://QmUX9Fr4MVGMvZp8mtf9Fs2MV9s5yu8ntbpwJpFZfa22Lc",
+      "name": "Machinie #17",
+      "traits": [
+        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Cyan" },
+        { "trait_type": "MOLD", "value": "12" },
+        { "trait_type": "MONITOR COUNT", "value": "2" },
+        { "trait_type": "COMBINATION OF TYPE", "value": "Double" }
+      ]
+    },
+    {
+      "id": 18,
+      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
+      "external_url": "https://machinienft.com",
+      "image": "ipfs://QmSu2GMbjqpaVCsaM2ZijPH3ZQeRyBJDrHEqgBzKFAHYWP",
+      "name": "Machinie #18",
+      "traits": [
+        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Purp" },
+        { "trait_type": "MOLD", "value": "113" },
+        { "trait_type": "MONITOR COUNT", "value": "3" },
+        { "trait_type": "COMBINATION OF TYPE", "value": "Triple" }
+      ]
+    },
+    {
+      "id": 19,
+      "description": "Welcome to Machiniverse ! Machinies are a collection of 8,888 units of machine forever run on Ethereum Blockchain. Which acts as your representative of being active for 24 hours a day, 7 days a week. Owning Machinies in your wallet does not only to keep you on the move but grants ownership privilege.",
+      "external_url": "https://machinienft.com",
+      "image": "ipfs://QmPobCc3MKifWPE7MQkQfvu2yrGfcRKras994eiZQhNYtM",
+      "name": "Machinie #19",
+      "traits": [
+        { "trait_type": "BACKGROUND COLOR", "value": "Machinie Pink" },
+        { "trait_type": "MOLD", "value": "113" },
+        { "trait_type": "MONITOR COUNT", "value": "3" },
+        { "trait_type": "COMBINATION OF TYPE", "value": "Triple" }
       ]
     }
   ]
